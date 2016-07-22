@@ -1,0 +1,39 @@
+.container_12
+{
+  background:#E1E8F0;
+  position:relative;
+  top:100px;
+  }
+  nav{
+    background:#D3DFAA;
+  }
+  nav li{
+    display:inline;
+    margin-left:0;
+    margin-right:3;
+    }
+    header{
+      background:#D3DFAA;
+      position:fixed;
+      z-index: 9999;
+      margin:0px;
+      }
+    h1
+    {
+   font-family: 'Lobster Two', cursive;
+   font-size:45;
+    }
+    .ex
+    {
+      clear:both;
+    }
+    .ex li a{
+      text-decoration: none;
+      padding:3;
+      font-size:15;
+    font-family: 'Bree Serif', serif;
+      padding-left:7;
+    }
+    .main{
+      margin:30px 10px;
+    }
