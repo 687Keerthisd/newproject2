@@ -1,0 +1,187 @@
+.container_12
+{
+background-color:#DFC7DD;
+  position:relative;
+  top:10px;
+  }
+  nav{
+    background:#D3DFAA;
+    margin-top:20;
+  }
+  nav li{
+    display:inline;
+    margin-left:0;
+    margin-right:3;
+
+    }
+    .ex
+    {
+      clear:both;
+    }
+    .ex li a{
+      text-decoration: none;
+      padding:3;
+      font-size:15;
+    font-family: 'Bree Serif', serif;
+      padding-left:7;
+    }
+    ol li{
+      margin:10px;
+        font-family: 'Bree Serif', serif;
+
+    }
+    ol a{
+  text-decoration: none;
+        font-size: 17;
+        color: indianred;
+    }
+    body{
+      background-color:#EFD8C0;
+    }
+    .s1 img
+    {
+      width:100%;
+      height:34%;
+      position: relative;
+      top:10px;
+    }
+    .s2 img
+    {
+      width:100%;
+      height:34%
+
+    }
+    .image{
+      position: relative;
+    }
+    .s3 img
+    {
+      width:99%;
+      height:34%
+    }
+    .wrap
+    {
+       width:975px;
+    }
+      .grid_8
+      {
+        position: relative;
+        top:10px;
+        margin-left:26px;
+      }
+      .primary
+      {
+        margin-left: 9px;
+        margin-right: 9px;
+        width:975px;
+        }
+         header{
+           background:#D3DFAA;
+           position:fixed;
+           z-index: 9999;
+           margin-right:10px;
+           }
+           h1
+           {
+          font-family: 'Lobster Two', cursive;
+          font-size:45;
+           }
+         .ft
+           {
+           position:relative;
+           top:10px;
+           clear:both;
+           background-color:#A1A887;
+           width:975px;
+           }
+           .fd1 img
+           {
+              margin-left:13px;
+              margin-top:23px;
+
+           }
+           .fd2
+           {
+             margin-left:5px;
+             margin-top: 19px;
+           }
+           .sec1
+           {
+               width:100%;
+               height:33%;
+               margin-top:10px;
+           }
+           .sec1 a
+           {
+             text-decoration: none;
+             color:#427813;
+               font-family: 'Bree Serif', serif;
+               font-size:15;
+           }
+           .sec2
+           {
+               width:100%;
+               height:33%;
+               margin-top:10px;
+           }
+           .sec2 a
+           {
+             text-decoration: none;
+             color:#427813;
+               font-family: 'Bree Serif', serif;
+               font-size:15;
+           }
+           .sec3 a
+           {
+             text-decoration: none;
+             color:#427813;
+               font-family: 'Bree Serif', serif;
+               font-size:15;
+           }
+        .grid_3 img
+        {
+          display:block;
+        }
+        .im
+        {
+           width:975px;
+        }
+        .im2
+        {
+           width:100%;
+        }
+        .tweet
+        {
+          width:50px;
+          height:50px;
+        }
+        .face
+          {
+             width:50px;
+             height:50px;
+          }
+          .plus
+          {
+             width:40px;
+             height:40px;
+          }
+          .bichy
+          {
+             position:relative;
+             top:10px;
+          }
+          .chocky
+          {
+            position:relative;
+            top:10px;
+          }
+          .white
+          {
+             width:94%;
+             height:33%;
+             margin-top:10px;
+          }
+        .main{
+          margin:30px 10px;
+          background-color:#DFC7DD;
+        }
